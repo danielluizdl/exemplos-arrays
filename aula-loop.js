@@ -1,6 +1,6 @@
 const nomesDeEstudante = ['jose', 'joao', 'maria', 'joana', 'andre'];
 
-for (let i = 0; i < 5; i++) {
+for (let i = 0; i < nomesDeEstudante.length; i++) {
 
     console.log(nomesDeEstudante[i])
 }
