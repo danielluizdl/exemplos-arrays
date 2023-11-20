@@ -11,3 +11,7 @@ console.log(nomeDePaises)
 nomeDePaises.unshift('Canada');
 
 console.log(nomeDePaises)
+
+nomeDePaises.shift('Canada')
+
+console.log(nomeDePaises)
