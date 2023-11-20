@@ -7,3 +7,7 @@ console.log(nomeDePaises)
 nomeDePaises.pop('Colombia');
 
 console.log(nomeDePaises)
+
+nomeDePaises.unshift('Canada');
+
+console.log(nomeDePaises)
