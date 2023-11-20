@@ -15,3 +15,6 @@ console.log(nomeDePaises)
 nomeDePaises.shift('Canada')
 
 console.log(nomeDePaises)
+
+const ultimoPais = nomeDePaises[nomeDePaises.length - 1];
+console.log(ultimoPais)
