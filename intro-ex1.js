@@ -20,3 +20,5 @@ const ultimoPais = nomeDePaises[nomeDePaises.length - 1];
 console.log(ultimoPais)
 
 console.log(nomeDePaises[1])
+
+console.log(nomeDePaises[2])
